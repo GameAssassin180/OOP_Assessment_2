@@ -6,7 +6,7 @@ namespace OOP_Assessment_Two
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
