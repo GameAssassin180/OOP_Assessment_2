@@ -61,10 +61,10 @@ namespace OOP_Assessment_Two
             }
         }
         // below is the construtor for this class it has 2 arguments 1 relates the the cards number the other relates to the cards suite. 
-        public Card(int number, cardType card)
+        public Card(int number, cardType suite)
         {
             this.cardNumber = number; // passes the arguments value to the cardNumber get set method before it is used. 
-            this.suite = card;
+            this.suite = suite;
         }
     }
 }

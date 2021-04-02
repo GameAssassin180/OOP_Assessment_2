@@ -1,0 +1,13 @@
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\bin\Debug\netcoreapp3.1\OOP_Assessment_Two.exe
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\bin\Debug\netcoreapp3.1\OOP_Assessment_Two.deps.json
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\bin\Debug\netcoreapp3.1\OOP_Assessment_Two.runtimeconfig.json
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\bin\Debug\netcoreapp3.1\OOP_Assessment_Two.runtimeconfig.dev.json
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\bin\Debug\netcoreapp3.1\OOP_Assessment_Two.dll
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\bin\Debug\netcoreapp3.1\OOP_Assessment_Two.pdb
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\obj\Debug\netcoreapp3.1\OOP_Assessment_Two.csprojAssemblyReference.cache
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\obj\Debug\netcoreapp3.1\OOP_Assessment_Two.AssemblyInfoInputs.cache
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\obj\Debug\netcoreapp3.1\OOP_Assessment_Two.AssemblyInfo.cs
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\obj\Debug\netcoreapp3.1\OOP_Assessment_Two.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\obj\Debug\netcoreapp3.1\OOP_Assessment_Two.dll
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\obj\Debug\netcoreapp3.1\OOP_Assessment_Two.pdb
+C:\Users\Mitch\source\repos\OOP_Assessment_Two\OOP_Assessment_Two\obj\Debug\netcoreapp3.1\OOP_Assessment_Two.genruntimeconfig.cache

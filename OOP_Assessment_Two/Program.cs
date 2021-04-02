@@ -6,7 +6,9 @@ namespace OOP_Assessment_Two
     {
         static void Main(string[] args)
         {
-            
+            Deck deck = new Deck();
+            deck.deckFiller();
+            Console.WriteLine(deck.deckList[1]);
         }
     }
 }
