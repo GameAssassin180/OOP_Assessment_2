@@ -6,7 +6,7 @@ namespace OOP_Assessment_Two
 {
     class Card
     {
-        // below is an enum list of suites, an enum will keep these values constant and allow easier access then an array. 
+        // below is an enum list of suits, an enum will keep these values constant and allow easier access then an array. 
         public enum cardType
         {
             Diamonds,
@@ -20,7 +20,7 @@ namespace OOP_Assessment_Two
             get;
             set;
         }
-        public cardType suite
+        public cardType suit
         {
             get;
             set;
@@ -36,6 +36,7 @@ namespace OOP_Assessment_Two
                     case (1): // if the card number equals 1 this case is activated,
                         name = "Ace"; // the name variable is changed to Ace,
                         break; // and the code breaks. 
+                        // the above is true for all below.
                     case (11):
                         name = "Jack";
                         break;
@@ -57,14 +58,14 @@ namespace OOP_Assessment_Two
         {
             get
             {
-                return pictureCards + " of " + suite.ToString(); // concatinates the cards number or name and its suite before returning the variable. 
+                return pictureCards + " of " + suit.ToString(); // concatinates the cards number or name and its suit before returning the variable. 
             }
         }
-        // below is the construtor for this class it has 2 arguments 1 relates the the cards number the other relates to the cards suite. 
-        public Card(int number, cardType suite)
+        // below is the construtor for this class it has 2 arguments 1 relates the the cards number the other relates to the cards suit. 
+        public Card(int number, cardType suit)
         {
             this.cardNumber = number; // passes the arguments value to the cardNumber get set method before it is used. 
-            this.suite = suite;
+            this.suit = suit;
         }
     }
 }
